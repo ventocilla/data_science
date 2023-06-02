@@ -17,3 +17,8 @@ At this point in my career, I am in the learning phase as a Data Scientist in th
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/leonardo-ventocilla-b763301/)
 
+
+## Projetos:
+Relação de projetos de data Science:
+
+* **Analisando os dados do Airbnb:** https://bit.ly/3MQYz4e
